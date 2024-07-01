@@ -260,3 +260,112 @@
 			});
 
 })(jQuery);
+
+//SECURITY
+// 1. Post Orders:
+// A. Red Binder: Emergency Post Orders 
+// B. White Binder: Post Duties
+// 2. Office Paperwork:
+// A. Passdowns
+// B. SAR
+// C. Schedule
+// D. Shift / Holiday Matrix / Vacation
+// E. Sign-In/Out Logs
+// F. Incident Reports
+// G. Badge Access Log
+// H. Access Form – Completion and Filing
+// I. Property Removal Form
+// J. Other Forms (Lost and Found, Key Log, 
+// etc.)
+// 3. Phones:
+// A. Proper Phone Etiquette 
+// B. Phone Directories/Transferring Calls
+// C. Directors and Their Administrators
+// D. Threatening Phone Calls
+// 4. S2:
+// A. Log-in Process - Workstations
+// B. Status Group-Door Status Verification
+// C. Looking up Profiles - Search Feature
+// D. How to Lock/Unlock/Mask Doors
+// E. Event Procedures
+// F. Running Reports
+// 5. Badges/VMS:
+// A. How to Make Badges/Terminating Badges
+// B. Editing Badge Access
+// C. Terminated/Disabled Badges
+// D. Alarm Feature
+// 6. Milestone:
+// A. Camera Setup
+// B. Changing Cameras
+// C. How to Look up Footage
+// D. How to Look up Cameras 
+// E. Saving/Exporting Footage
+// 7. Miscellaneous:
+// A. SAF 09-11
+// B. Attendance and Punctuality HR SOP
+// C. Dress Code Guidelines
+// D. Standards of Performance
+// E. PA Announcements
+// F. BOLOs
+// G. Discuss Phase 1, 2, 3 Training
+// H. Workplace Violence
+// I. Signing-In/Out of Computers
+// J. Lost & Found
+// K. Iron Mountain
+
+// PATROL OFFICER
+// 1. Patrol Procedures:
+// A. Proper Patrol Procedures
+// B. Interior Patrol
+// C. Exterior Patrol
+// 2. Fire Panel:
+// A. Know Four Different Levels:
+//  (Trouble, Supervisory, Pre-Alarm, Fire Alarm)
+// B. Acknowledge Alarms
+// C. How and Where to Log Alarms
+// 3. Code Blue Boxes:
+// A. Locations
+// B. Purpose/Functions
+// 4. Back-up Generator:
+// A. Location
+// B. Checking Panels & Annunciator
+// 5. MDF / IDF Units:
+// A. Check for Alarms
+// B. Types of Alarms
+// C. Silencing Alarms
+// 6. Pump Room / Riser Room:
+// A. Checking Area
+
+// LOBBY / CONSOLE  
+// A. Lobby/Console Duties
+// B. Access Control
+// C. Issuing Badges – Visitor Kiosk
+// D. Issuing Badges - Book
+// E. Signing Out Keys
+// F. Issuing Cabinet Keys
+// G. Boxes and Bag Checks
+// H. Code Blue Procedures
+// I. Duress Button
+// J. Lock Down Button
+// K. Proper Radio Etiquette
+// L. Revolving Door – Usage and Breakdown
+// M. Circle Lock
+// N. PA Emergency System
+// O. Go-Bag Content/Use
+// P. GSOC Notifications
+
+// GEM - PATROL VEHICLES
+// A. Charging Schedule
+// B. GEM Inspection & Damage Reporting
+// C. Safety
+// D. Proper Operation of GEM
+
+// HR / MYAPRON
+// A. Schedule New Hire Orientation
+// B. Sign in to myApron
+// C. myTHDHR
+// D. Knowledge Depot
+// E. Kronos
+// F. ESS/MSS – Deliverables 
+// G. Benefits/LivetheOrangeLife
+
